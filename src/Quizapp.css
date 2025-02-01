@@ -1,0 +1,131 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .quiz-container {
+    text-align: center;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    width: 400px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .progress-bar {
+    height: 10px;
+    background: #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    overflow: hidden;
+  }
+  
+  .progress-bar div {
+    height: 100%;
+    background: #4caf50;
+    transition: width 0.5s ease-in-out;
+  }
+  
+  .question {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .options {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .option-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    margin: 5px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease-in-out;
+  }
+  
+  .option-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .correct-msg {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .wrong-msg {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .results {
+    font-size: 20px;
+  }
+  
+  .score {
+    font-weight: bold;
+    color: #4caf50;
+  }
+  
+  .restart-btn {
+    background-color: #ff5722;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+    transition: background 0.3s;
+  }
+  
+  .restart-btn:hover {
+    background-color: #e64a19;
+  }
+  
+  .timer {
+    font-size: 18px;
+    font-weight: bold;
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .review-container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    text-align: left;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .review-btn {
+    background-color: #00897b;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .review-btn:hover {
+    background-color: #00796b;
+  }
+  
