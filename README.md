@@ -59,9 +59,12 @@ const response = await axios.get('https://cors-anywhere.herokuapp.com/https://ap
 
 ## Screenshots
 ![Quiz App Screenshot](https://drive.google.com/file/d/1NqyEQ1kdIIXInCn5Ms-K92D8Vd2CPdKw/view?usp=drive_link)
+![Screenshot (6)](https://github.com/user-attachments/assets/399bdd23-5091-48e2-9333-b9a925189cbe)
+
 
 ## Video Walkthrough
 [Watch Demo](https://drive.google.com/file/d/1d4C8Oqr3zH55XtsDVaEFlrqfQGtcbhQ-/view?usp=drive_link)
+
 
 ## Known Issues & Fixes
 - **Error 500 (Internal Server Error):** Check API response format.
