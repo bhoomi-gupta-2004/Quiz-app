@@ -67,7 +67,11 @@ const response = await axios.get('https://cors-anywhere.herokuapp.com/https://ap
 
 
 
-https://github.com/user-attachments/assets/7b8c4d86-0b99-432d-9427-7a93c073481b
+
+
+https://github.com/user-attachments/assets/80cdb9c5-191d-43bc-900c-5c3a21b28a8d
+
+
 
 
 
@@ -83,5 +87,4 @@ This project is licensed under the MIT License.
 
 
 
-https://github.com/user-attachments/assets/b4c06789-25bc-4485-b6a0-a9e8775ab7b7
 
