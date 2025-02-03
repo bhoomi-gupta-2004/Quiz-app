@@ -58,12 +58,17 @@ const response = await axios.get('https://cors-anywhere.herokuapp.com/https://ap
 ```
 
 ## Screenshots
-![Quiz App Screenshot](https://drive.google.com/file/d/1NqyEQ1kdIIXInCn5Ms-K92D8Vd2CPdKw/view?usp=drive_link)
-![Screenshot (6)](https://github.com/user-attachments/assets/399bdd23-5091-48e2-9333-b9a925189cbe)
+![Screenshot (6)](https://github.com/user-attachments/assets/11ffeb4c-4122-4aac-8db9-33a7d1f0a655)
+![Screenshot (7)](https://github.com/user-attachments/assets/594f64c7-c3da-45e0-acc6-667e26d9edcc)
+
 
 
 ## Video Walkthrough
-[Watch Demo](https://drive.google.com/file/d/1d4C8Oqr3zH55XtsDVaEFlrqfQGtcbhQ-/view?usp=drive_link)
+
+
+
+https://github.com/user-attachments/assets/7b8c4d86-0b99-432d-9427-7a93c073481b
+
 
 
 ## Known Issues & Fixes
@@ -75,4 +80,8 @@ Feel free to fork the repository and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
+
+
+
+https://github.com/user-attachments/assets/b4c06789-25bc-4485-b6a0-a9e8775ab7b7
 
